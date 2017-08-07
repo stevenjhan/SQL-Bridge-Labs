@@ -1,3 +1,7 @@
+CREATE SCHEMA IF NOT EXISTS lab_4;
+
+USE lab_4;
+
 DROP TABLE IF EXISTS company_hierarchy;
 
 CREATE TABLE company_hierarchy (
